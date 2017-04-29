@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BooksExercise</string>
+    <string name="action_settings">Settings</string>
+    <string name="tag_launch_screen">Coding Exercise</string>
+    <string name="welcome_text">Welcome to Possible Mobile</string>
+    <string name="search_text">Click the button below to get the list of books</string>
+    <string name="search_button_text">Search</string>
+    <string name="classcast_exception_listener">Hosting activity of the fragment forget to implement HandleNavigationListener</string>
+    <string name="recylerView_title">DE JSON Test</string>
+    <string name="no_response">No books found</string>
+    <string name="error_api_response">Error in fetching the list of books from the server</string>
+    <string name="no_network">No Internet Connection</string>
+    <string name="progressText">Searching for books</string>
+</resources>
